@@ -6,7 +6,6 @@ This repository contains **topic-wise Python practice questions with solutions**
 
 ## 📌 Topics Covered
 
----
 
 ## 1️⃣ Functions
 
