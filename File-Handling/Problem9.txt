@@ -1,0 +1,5 @@
+Python is easy to learn.
+file handling is important in Python.
+
+Java is easy to learn.
+file handling is important in Java.
